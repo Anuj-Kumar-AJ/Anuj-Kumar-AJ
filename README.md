@@ -1,6 +1,9 @@
 # Hi Folks, Anuj here! So good to see you all here 👋
 
-I am Anuj Kumar, graduated with mechanical degree in 2022. And i am breaking into Tech. I am Techinical Content Creator on Hashnode. And i love to share what i know on Twitter. If you love to geeks out, like me then lets connect on twitter. I love to learn and share about ** Cloud and infrastructure **, ** Artificial intelligence **, ** machine Learning **.  
+I am Anuj Kumar, graduated with mechanical degree in 2022. And i am breaking into Tech. I am Techinical Content Creator on Hashnode. And i love to share what i know on Twitter. If you love to geeks out, like me then lets connect on twitter. I love to learn and share about **Cloud and infrastructure **, **Artificial intelligence **, **machine Learning **.  
+
+
+
 
 
 
