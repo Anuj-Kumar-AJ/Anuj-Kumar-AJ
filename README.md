@@ -25,6 +25,15 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuj-kumar-aj&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-kumar-aj&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuj-kumar-aj&show_icons=true&theme=midnight-purple" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-kumar-aj&theme=midnight-purple" />
 </p>
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=anuj-kumar-aj.anuj-kumar.aj)
+[![Github](https://img.shields.io/github/followers/anuj-kumar-aj?label=Follow&style=social)](https://github.com/Anuj-Kumar-AJ)
+
+## Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-kumar-aj&theme=midnight-purple)
+
+<!-- ## Blog posts -->
