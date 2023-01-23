@@ -18,3 +18,13 @@ I am Anuj Kumar, graduated with mechanical degree in 2022. And i am breaking int
 Anuj-Kumar-AJ/Anuj-Kumar-AJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuj-kumar-aj&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-kumar-aj&theme=tokyonight" />
+</p>
