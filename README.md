@@ -8,10 +8,11 @@ I am Anuj Kumar, graduated with mechanical degree in 2022. And i am breaking int
 
 
 - 👋 Hi, I’m @Anuj-Kumar-AJ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in **cloud** , **infrastructure**, **machine learning**,**artificial Intelligence**
+- 🌱 I’m currently learning cloud and infrastructure
+- 💞️ I’m looking to collaborate on all the interesting Problems and technologies![image](https://user-images.githubusercontent.com/45460554/214022863-9ab2f702-bf06-4cb4-8158-f2605f8a8dc0.png)
+
+- 📫 How to reach me [twitter](https://twitter.com/AnujAJtwt)
 
 [![@anujkumaraj's Holopin board](https://holopin.me/anujkumaraj)](https://holopin.io/@anujkumaraj)
 <!---
