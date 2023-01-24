@@ -34,7 +34,12 @@ You can click the Preview link to take a look at your changes.
 ![](https://visitor-badge.laobi.icu/badge?page_id=anuj-kumar-aj.anuj-kumar.aj)
 [![Github](https://img.shields.io/github/followers/anuj-kumar-aj?label=Follow&style=social)](https://github.com/Anuj-Kumar-AJ)
 
+
+## Activity graph
+[![Anuj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anuj-kumar-aj&custom_title=My%20GitHub%20Journey:%20Charting%20Progress%20Through%20Contributions&theme=midnight-purple&bg_color=000000&point=FF0000&title_color=00FF00&line=FF00FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-kumar-aj&theme=midnight-purple)
+
 
 <!-- ## Blog posts -->
